@@ -1,7 +1,5 @@
 local o = vim.o
 
-
-o.nocompatible=true
 o.number=true
 o.mouse="a"
 o.relativenumber=true
