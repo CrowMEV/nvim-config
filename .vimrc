@@ -39,3 +39,6 @@ set noswapfile
 "for win
 "set clipboard=unnamed
 map <C-n> :NERDTreeToggle<CR>
+nnoremap <F2> :set norelativenumber!<CR>
+nnoremap <F3> :set nonumber!<CR>
+
